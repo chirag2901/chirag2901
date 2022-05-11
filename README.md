@@ -1,4 +1,4 @@
-[![MasterHead](https://4.bp.blogspot.com/-_Y5isR6OG70/VqM4VBtwx7I/AAAAAAAACdg/esBExhpDP1c/s400/java8_splash.gif)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
+[![MasterHead](http://ben-solutions.com/wp-content/uploads/2017/03/Java-development-services.jpg)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
 <h1 align="center">Hi 👋, I'm Chirag Pilavare</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
