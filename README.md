@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chirag Pilavare</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2018/04/Java-or-Android.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chirag2901&label=Profile%20views&color=0e75b6&style=flat" alt="chirag2901" /> </p>
 
