@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/java-technology-website-design-language-application-banner-colorful-plexus-software-vector-illustration-online-166485226.jpg)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
+[![MasterHead](https://algorand-developer-portal.tryprism.com/static/Posts/2020/10/29%2018:50/102920-Developing_Android_Apps.jpg?w=2220&cmd=resize_then_crop&height=1018&quality=70)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
 
 <h1 align="center">Hi 👋, I'm Chirag Pilavare</h1>
 <h3 align="center">A passionate backend developer from India</h3>
