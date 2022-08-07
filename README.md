@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\CHIRAG PILAVARE\Desktop)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
+[![MasterHead](file:///C:/Users/CHIRAG%20PILAVARE/Desktop/1519801300401.jpg)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
 
 <h1 align="center">Hi 👋, I'm Chirag Pilavare</h1>
 <h3 align="center">A passionate backend developer from India</h3>
