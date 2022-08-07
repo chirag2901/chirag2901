@@ -1,4 +1,4 @@
-[![MasterHead](https://medium.com/techwasti/how-to-customize-banner-for-spring-boot-application-590d01299a49)](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
+[![MasterHead]([https://medium.com/techwasti/how-to-customize-banner-for-spring-boot-application-590d01299a49](https://miro.medium.com/max/964/1*t2-FA2PGbzaT-byEv_wPxg.png))](https://www.instagram.com/accounts/login/?next=/maichiraghoon/)
 
 <h1 align="center">Hi 👋, I'm Chirag Pilavare</h1>
 <h3 align="center">A passionate backend developer from India</h3>
